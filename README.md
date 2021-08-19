@@ -2,9 +2,10 @@
 Hi, I'm Jeff Duffy. Here's some of my more public work:
 
 **Presentations**  
-[Migrating Your Databases to Amazon DocumentDB (Re:Invent DAT372)](https://www.youtube.com/watch?v=qmb7ssDH6Pg)  
-[Best Practices for Amazon DocumentDB (AWS Online Tech Talks)](https://www.youtube.com/watch?v=dlRu2uF2fqI)  
-[Migrating to Amazon DocumentDB](https://www.youtube.com/watch?v=-heFSiGRc1o)
+[Migrating Your Databases to Amazon DocumentDB](https://www.youtube.com/watch?v=qmb7ssDH6Pg) - (Re:Invent DAT372)  
+[Best Practices for Amazon DocumentDB](https://www.youtube.com/watch?v=dlRu2uF2fqI) - (AWS Online Tech Talks)  
+[Migrating to Amazon DocumentDB](https://www.youtube.com/watch?v=-heFSiGRc1o) - (DocumentDB Focus Day)   
+[Using DocumentDB to Build Applications at Scale](https://www.percona.com/live/19/sessions/how-to-use-amazon-documentdb-with-mongodb-compatibility-to-build-and-manage-applications-at-scale) - (Percona Live)  
 
 **Blogs**  
 [Migrating to Amazon DocumentDB with the offline method](https://aws.amazon.com/blogs/database/migrate-from-mongodb-to-amazon-documentdb-using-the-offline-method/)  
