@@ -7,8 +7,8 @@ Hi, I'm Jeff Duffy. Here's some of my more public work:
 [Migrating to Amazon DocumentDB](https://www.youtube.com/watch?v=-heFSiGRc1o)
 
 **Blogs**  
-[Migrating to Amazon DocumentDB with the offline method](https://aws.amazon.com/blogs/database/migrate-from-mongodb-to-amazon-documentdb-using-the-offline-method/)
-[Migrating to Amazon DocumentDB with the online method](https://aws.amazon.com/blogs/database/migrating-to-amazon-documentdb-with-the-online-method/) 
+[Migrating to Amazon DocumentDB with the offline method](https://aws.amazon.com/blogs/database/migrate-from-mongodb-to-amazon-documentdb-using-the-offline-method/)  
+[Migrating to Amazon DocumentDB with the online method](https://aws.amazon.com/blogs/database/migrating-to-amazon-documentdb-with-the-online-method/)  
 [Migrating to Amazon DocumentDB with the hybrid method](https://aws.amazon.com/blogs/database/migrating-to-amazon-documentdb-with-the-hybrid-method/)  
 [Introducing RBAC for DocumentDB](https://aws.amazon.com/blogs/database/introducing-role-based-access-control-for-amazon-documentdb-with-mongodb-compatibility/)  
 [12 Things You Should Know About DocumentDB](https://aws.amazon.com/blogs/database/12-things-you-should-know-about-amazon-documentdb-with-mongodb-compatibility/)  
