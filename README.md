@@ -2,6 +2,7 @@
 Hi, I'm Jeff Duffy. Here's some of my more public work:
 
 **Presentations**  
+[Choosing DocumentDB vs. DynamoDB](https://aws.amazon.com/documentdb/resources/video-documentdb-twitch/) - (AWS Database Show)   
 [Migrating Your Databases to Amazon DocumentDB](https://www.youtube.com/watch?v=qmb7ssDH6Pg) - (Re:Invent DAT372)  
 [Best Practices for Amazon DocumentDB](https://www.youtube.com/watch?v=dlRu2uF2fqI) - (AWS Online Tech Talks)  
 [Migrating to Amazon DocumentDB](https://www.youtube.com/watch?v=-heFSiGRc1o) - (DocumentDB Focus Day)   
@@ -22,8 +23,8 @@ Hi, I'm Jeff Duffy. Here's some of my more public work:
 [Amazon DocumentDB](https://docs.aws.amazon.com/documentdb/latest/developerguide/what-is.html)
 
 **Presentation Decks**  
-[Migrating your Databases to Amazon DocumentDB](https://d1.awsstatic.com/events/reinvent/2019/Migrating_your_databases_to_Amazon_DocumentDB_DAT372.pdf)
-
+[Migrating your Databases to Amazon DocumentDB](https://d1.awsstatic.com/events/reinvent/2019/Migrating_your_databases_to_Amazon_DocumentDB_DAT372.pdf)  
+[Building Flexible Data Architectures with DocumentDB Change Streams](https://d1.awsstatic.com/events/reinvent/2019/REPEAT_1_Build_flexible_data_architecture_with_Amazon_DocumentDB_change_streams_DAT357-R1.pdf)
 
 
 
