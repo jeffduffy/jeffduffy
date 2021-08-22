@@ -2,8 +2,8 @@
 Hi, I'm Jeff Duffy. Here's some of my more public work:
 
 **Presentations**  
-[Choosing DocumentDB vs. DynamoDB](https://aws.amazon.com/documentdb/resources/video-documentdb-twitch/) - (AWS Database Show)   
 [Migrating Your Databases to Amazon DocumentDB](https://www.youtube.com/watch?v=qmb7ssDH6Pg) - (Re:Invent DAT372)  
+[Choosing DocumentDB vs. DynamoDB](https://aws.amazon.com/documentdb/resources/video-documentdb-twitch/) - (AWS Database Show)   
 [Best Practices for Amazon DocumentDB](https://www.youtube.com/watch?v=dlRu2uF2fqI) - (AWS Online Tech Talks)  
 [Migrating to Amazon DocumentDB](https://www.youtube.com/watch?v=-heFSiGRc1o) - (DocumentDB Focus Day)   
 [Using DocumentDB to Build Applications at Scale](https://www.percona.com/live/19/sessions/how-to-use-amazon-documentdb-with-mongodb-compatibility-to-build-and-manage-applications-at-scale) - (Percona Live)  
